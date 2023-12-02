@@ -71,12 +71,6 @@ In case you're running Ganache.
 truffle migrate --network development
 ```
 
-In case you prefer to debug against a deployed Smart Contract on Ethereum.
-
-```bash
-truffle migrate --network development
-```
-
 #### Running frontend application
 
 Then, run the development server:

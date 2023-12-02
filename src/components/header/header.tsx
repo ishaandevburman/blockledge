@@ -59,7 +59,7 @@ export const Header: NextPage<Props> = () => {
 			<div className='flex flex-col align-center text-center mt-10'>
 				<Title level={3}> Welcome to Blockledge </Title>
 				<Text type='secondary'>
-					Decentralized blockchain platform for uploading, downloading and sharing files without any restriction.
+					Decentralized blockchain platform for uploading, downloading and sharing files.
 				</Text>
 				<div className='flex justify-center mt-5'>
 					<Button 
