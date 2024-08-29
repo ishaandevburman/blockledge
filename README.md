@@ -4,8 +4,6 @@
 
 # Blockledge
 
-Insert INFO
-
 ## How it works
 
 #### Architecture
