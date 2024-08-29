@@ -4,6 +4,8 @@
 
 # Blockledge
 
+Blockledge, is a blockchain-based application designed for secure and transparent data management. It leverages the decentralized nature of blockchain technology to ensure data integrity, security, and immutability, making it a valuable solution for industries that require secure data verification.
+
 ## How it works
 
 #### Architecture
